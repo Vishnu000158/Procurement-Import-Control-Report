@@ -1,0 +1,11 @@
+PO_ID,Order_Month,Category,Chemical_Name,Vendor_Name,Sourcing_Route,Origin_City,Origin_Country,Incoterm,PO_Qty_Kg,Received_Qty_Kg,Benchmark_Price,PO_Unit_Price,Lead_Time_Days,SLA_Target_Days
+PO-101,Aug 2026,Catalysts,DMAP Pure Grade,Aarti Industries Ltd,Domestic,Mumbai,India,Ex-Works Mumbai,2500,2500,1020,980,4,5
+PO-102,Aug 2026,Peptide Reagents,HATU Coupling Reagent,Sinochem Pharma China,Import,Shanghai,China,FOB Sea China,1500,1500,2550,2450,21,22
+PO-103,Aug 2026,Organic Acids,Benzoic Acid Technical,Chempure Private Ltd,Domestic,Mumbai,India,Ex-Works Mumbai,8000,8000,325,310,5,5
+PO-104,Sep 2026,Peptide Reagents,HATU Peptide Grade,Zhejiang Chem Import,Import,Hangzhou,China,CIF Mumbai,1200,1050,2600,2500,25,22
+PO-105,Sep 2026,Catalysts,DMAP Catalyst Grade,Urmi Chemicals,Domestic,Vapi,India,Ex-Works Vapi,2000,1850,1040,1000,6,6
+PO-106,Sep 2026,Organic Acids,Benzoic Acid IP/BP,Sanjay Industries,Domestic,Mumbai,India,Ex-Works Mumbai,6500,6500,355,340,5,5
+PO-107,Oct 2026,Catalysts,DMAP High Purity,Nutron Chemicals,Domestic,Mumbai,India,Ex-Works Mumbai,3000,3000,1030,990,4,5
+PO-108,Oct 2026,Organic Acids,Benzoic Acid Flakes,Jiangsu Fine Chem China,Import,Nanjing,China,FOB Sea China,9000,0,310,290,26,22
+PO-109,Nov 2026,Catalysts,DMAP Pure Grade,Aarti Industries Ltd,Domestic,Mumbai,India,Ex-Works Mumbai,3500,3500,1020,975,4,5
+PO-110,Nov 2026,Peptide Reagents,HATU Coupling Reagent,Sinochem Pharma China,Import,Shanghai,China,CIF Mumbai,1800,1800,2550,2420,20,22
